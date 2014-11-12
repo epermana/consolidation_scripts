@@ -1,0 +1,1 @@
+CREATE EXTERNAL TABLE inboundmaster_consol(poNumber string,customerNo string,whID string,carrierName string,type string, createDate string,endDate string,supplier string,supplierCode string,carrier string)ROW FORMAT DELIMITEDFIELDS TERMINATED BY '\001'STORED AS PARQUETLOCATION '/staging/consolidated/inboundmaster_consol'
