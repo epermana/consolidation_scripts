@@ -1,4 +1,6 @@
-consolidation_scripts
-=====================
+consolidated_scripts
+====================
 
-latest consolidation scripts with john crawford changes
+This scripts is for creating final schema DDL it contains create.sh and drop.sh
+
+
